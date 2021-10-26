@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DD_Mini_Asst</string>
+    <string name="your_offline">You are offline now.</string>
+    <string name="arun_kumar_restaurants">DinDinn Restaurants </string>
+
+
+    <string name="auto_reject">Auto Reject</string>
+    <string name="okay">Okay</string>
+    <string name="accept">Accept</string>
+    <string name="done">Done</string>
+    <string name="price">Price :  </string>
+    <string name="available">Available</string>
+    <string name="food">Food</string>
+
+    <string-array name="order_tab_list">
+        <item>Incoming</item>
+        <item>Preparing</item>
+        <item>Collection</item>
+    </string-array>
+
+</resources>
